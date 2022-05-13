@@ -32,7 +32,7 @@
 
 <p> <a href="Сюжет.html">Сюжет</a> </p>
 
-<p><a href="карты.html"> Карты</a></p>
+<p><a href="Карты.html"> Карты</a></p>
 
 <p> <a href="Boss.html">Боссы</a> </p>
 
