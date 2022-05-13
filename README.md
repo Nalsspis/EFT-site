@@ -1,4 +1,4 @@
-<html><!DOCTYPE html>
+<html>
 <h1 h1 align="CENTER">Escape from Tarkov.</h1>
 <p>Добро пожаловать на сайт про Escape from Tarkov.</p>
 <p>Здесь Вы найдете много интересных и полезных статей о популярной отечественной игре.<p>
@@ -44,6 +44,7 @@
 
 <body background="unobtrusive-smooth-light-gray-concrete-texture-background_136930-1051.jpg">
 
-</html>
+
+  
 
 
