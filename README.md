@@ -40,7 +40,7 @@
 
 <p> <a href="Почему тарков популярный.html">Почему тарков популярный?</a> </p>
 
-Обратная связь <a href="mailto:dota2@mail.ru">e-mail</a>
+Обратная связь <a href="mailto:daniilkuzovov@mail.ru">e-mail</a>
 
 <body background="unobtrusive-smooth-light-gray-concrete-texture-background_136930-1051.jpg">
 
